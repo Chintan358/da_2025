@@ -7,9 +7,9 @@
 # else:
 #     print("not elegble for voting")
 
-a = 200
-b = 200
-c = 100
+# a = 200
+# b = 200
+# c = 100
 
 # if a>b:
 #     if a>c:
@@ -30,5 +30,6 @@ c = 100
 #     print("C is greater")
 # else:
 #     print("any two are same")
+
 
 
