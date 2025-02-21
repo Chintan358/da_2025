@@ -22,3 +22,40 @@ words = "Sun rises in East"
 
 # s = "my name is {1} and email is {0}".format("a","a@gmail.com")
 # print(s)
+
+# a = "_firstname"
+# print(a.isidentifier())
+
+# print("Abc".islower())
+
+# print("Abc".istitle())
+
+# print("abc".join("lmn"))
+
+# print("tops".ljust(10,'*'))
+
+# print(words.partition("k"))
+# print(words.split("u"))
+
+# for i in words:
+#     if i=="s":
+#         print()
+#     print(i,end="")
+
+# print(words.replace('s','K'))
+
+# print(words.swapcase())
+# print(words.title())
+# print(words.capitalize())
+# print("words22".isalnum())
+# print("102o3".isnumeric())
+# print("ab1c".isalpha())
+
+# print(words[2])
+# print(words[2:])
+# print(words[:7])
+# print(words[2:7])
+# print(words[2:9:3])
+# print(words[-6:-2])
+   
+
