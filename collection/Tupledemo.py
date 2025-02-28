@@ -23,6 +23,6 @@ t = (10,20,30,40,50)
 # print(a)
 # print(b)
 
-sagar = t*2
+# sagar = t*2
 
-print(sagar)
+# print(sagar)
