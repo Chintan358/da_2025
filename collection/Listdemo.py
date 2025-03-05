@@ -34,7 +34,7 @@
 # print(sports)
 
 
-# fruits = ["Mango","Banana","Pineapple","Orange","Kiwi","Mango"]
+fruits = ["Mango","Banana","Pineapple","Orange","Kiwi","Mango"]
 
 # for i in fruits:
 #     print(i)
@@ -57,8 +57,7 @@
 
 # l = [i*i for i in k]
 # print(l)
-
-# fruits.sort()
+fruits.sort()
 # fruits.sort(reverse=1)
 # fruits.reverse()
 # print(fruits)
