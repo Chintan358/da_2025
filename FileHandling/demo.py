@@ -30,3 +30,17 @@
 #     print(f.tell())
 #     print(data)
 
+# with open("Capture.png",'rb') as f:
+#     d = f.read()
+#     print(d)
+
+# with open("home.txt",'r+') as f:
+#     f.write("Python programming...")
+#     f.seek(0)
+#     data = f.read()
+#     print(data)
+
+import os
+
+# os.mkdir("New Folder")
+# os.rmdir("New Folder")
